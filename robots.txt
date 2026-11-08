@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jainsights.com/sitemap.xml
